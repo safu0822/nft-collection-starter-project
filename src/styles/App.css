@@ -89,6 +89,10 @@
   font-weight: bold;
 }
 
+.mintCount {
+  color: white;
+}
+
 /* KeyFrames */
 @-webkit-keyframes gradient-animation {
   0% {
